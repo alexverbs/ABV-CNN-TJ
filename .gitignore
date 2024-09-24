@@ -1,0 +1,5 @@
+#Ignoring these files:
+
+tom_and_jerry/
+.DS_Store
+
